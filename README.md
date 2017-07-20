@@ -1,6 +1,6 @@
 # Códigos
 
-Extensões, plug ins e os mais variados códigos que auxiliem e facilitem a vida de quem trabalha com as ferramentas do LibreOffice estaro aqui disipníveis.
+Extensões, plug-ins e os mais variados códigos que auxiliem, facilitem a vida de quem trabalha com as ferramentas do LibreOffice estarão disipníveis aqui:
 
 # Instalador LibreOffice
 
